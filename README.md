@@ -12,7 +12,7 @@ ThreatIQ is an AI-powered cybersecurity platform designed to help Security Opera
 | ------------- | ------------------------------------------------------------------------------ |
 | **Team Name** | ThreatIQ                                                                       |
 | **Track**     | Open                                                                           |
-| **Team Lead** | Sakshi Dhanani(D25DCE163)                                                      |
+| **Team Lead** | Sakshi Dhanani (D25DCE163)                                                     |
 | **Members**   | Krisha Vegad (D25DCE162), Diksha Akbari (D25DCE153), Riddhi Pujara (D25DCS173) |
 
 ---
@@ -330,12 +330,12 @@ The application can then be opened in the browser using the local URL displayed 
 
 ## 🖥️ Demo
 
-| Artifact            | Link                                                                                   |
-| ------------------- | -------------------------------------------------------------------------------------- |
-| 📹 **Demo Video**   | [See ](demo/demo-video-link.txt)[`demo/demo-video-link.txt`](demo/demo-video-link.txt) |
-| 🌐 **Live Demo**    | [See ](demo/live-demo-url.txt)[`demo/live-demo-url.txt`](demo/live-demo-url.txt)       |
-| 🖼️ **Screenshots** | [See ](demo/screenshots/)[`demo/screenshots/`](demo/screenshots/)                      |
-| 📊 **Presentation** | [See ](presentation/)[`presentation/`](presentation/)                                  |
+| Artifact            | Link                       |
+| ------------------- | -------------------------- |
+| 📹 **Demo Video**   | `demo/demo-video-link.txt` |
+| 🌐 **Live Demo**    | `demo/live-demo-url.txt`   |
+| 🖼️ **Screenshots** | `demo/screenshots/`        |
+| 📊 **Presentation** | `presentation/`            |
 
 > Demo links will be added when the final demo and deployment are available.
 
@@ -479,11 +479,12 @@ The project combines **cybersecurity, threat intelligence, AI-assisted analysis,
 
 ### ThreatIQ
 
-| Name              | Student ID | Role        |
-| ----------------- | ---------- | ----------- |
-| **Krisha Vegad**  | D25DCE162  | Team Member |
-| **Diksha Akbari** | D25DCE153  | Team Member |
-| **Riddhi Pujara** | D25DCS173  | Team Member |
+| Name               | Student ID | Role          |
+| ------------------ | ---------- | ------------- |
+| **Sakshi Dhanani** | D25DCE163  | **Team Lead** |
+| **Krisha Vegad**   | D25DCE162  | Team Member   |
+| **Diksha Akbari**  | D25DCE153  | Team Member   |
+| **Riddhi Pujara**  | D25DCS173  | Team Member   |
 
 ---
 
